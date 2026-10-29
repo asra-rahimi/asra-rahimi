@@ -89,17 +89,33 @@ A beginner-friendly backend project built with Python and FastAPI.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=asra-rahimi&show_icons=true&bg_color=182B3A&title_color=8FC5E5&text_color=FFFFFF&icon_color=B58A6A&border_color=76513B&hide_border=false"
+  height="170"
+  alt="Asra's GitHub Stats"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=asra-rahimi&layout=compact&bg_color=182B3A&title_color=8FC5E5&text_color=FFFFFF&border_color=76513B"
+  height="170"
+  alt="Most Used Languages"
+/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=asra-rahimi&background=182B3A&ring=8FC5E5&fire=B58A6A&currStreakLabel=8FC5E5&sideLabels=FFFFFF&dates=B58A6A&border=76513B"
+  width="90%"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
+
 
 ---
 
