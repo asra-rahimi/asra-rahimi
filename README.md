@@ -3,7 +3,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=190&section=header&text=Hey,%20I'm%20Asra!&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=60&descSize=17" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2418,50:245B8F,100:8B5E3C&height=200&section=header&text=Hey,%20I'm%20Asra!%20%F0%9F%90%8D&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=60&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;Python+Developer+in+Progress;Learning+Backend+Development;Build.+Learn.+Improve." alt="Typing SVG" />
 
