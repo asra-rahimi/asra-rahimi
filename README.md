@@ -32,13 +32,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="95%" />
-
-<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48%" />
-<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="48%" />
-
-<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/3-stats.svg" width="48%" />
-<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="48%" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=asra-rahimi&show_icons=true&include_all_commits=true&custom_title=Asra%27s%20GitHub%20Stats&bg_color=0b1d3a&border_color=2a4a8a&border_radius=14&title_color=8fb8e8&text_color=e8f1fb&icon_color=f2c9a0&ring_color=8fb8e8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asra-rahimi&layout=compact&langs_count=6&hide=css,html&custom_title=Top%20Languages&bg_color=0b1d3a&border_color=2a4a8a&border_radius=14&title_color=8fb8e8&text_color=e8f1fb" />
 
 </div>
 
