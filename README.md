@@ -26,29 +26,33 @@
 
 </div>
 
-| Skill | Level |
-|---|---|
-| 🐍 Python | Main skill, actively growing |
-| ⚡ FastAPI | Hands-on, building APIs |
-| 🎸 Django | Hands-on web development |
-| 🐘 PostgreSQL & SQL | Hands-on |
-| 🔧 Git & GitHub | Learning & using in projects |
-| 🌐 HTML & CSS | Basic |
-| 📜 JavaScript | Basic |
-| 🐳 Docker & Linux | Basic |
-
 ---
 
-## 📊 GitHub Stats
+## 📊 Github Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asra-rahimi&show_icons=true&hide_border=true&bg_color=0b1d3a&title_color=8fb8e8&icon_color=f2c9a0&text_color=e8f1fb" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asra-rahimi&layout=compact&hide_border=true&bg_color=0b1d3a&title_color=8fb8e8&text_color=e8f1fb" />
+<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="95%" />
+
+<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="48%" />
+
+<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/3-stats.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="48%" />
 
 </div>
 
 ---
+
+## 🌊 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asra-rahimi&bg_color=0b1d3a&color=8fb8e8&line=2a4a8a&point=f2c9a0&area=true&area_color=2a4a8a&hide_border=true" width="100%" />
+
+<img src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/output/github-snake.svg" alt="snake animation" width="100%" />
+
+</div>
 
 <div align="center">
 
