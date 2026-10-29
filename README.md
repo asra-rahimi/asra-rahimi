@@ -122,3 +122,14 @@ A beginner-friendly backend project built with Python and FastAPI.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=100&section=footer" width="100%" />
 
 </div>
+---
+
+<div align="center">
+
+<h2>🐍 My GitHub Contribution Snake</h2>
+
+<img src="https://raw.githubusercontent.com/Asra_rahimi/Asra_rahimi/output/github-snake.gif"
+     width="100%"
+     alt="Coffee and Sky Blue GitHub Snake Animation"/>
+
+</div>
