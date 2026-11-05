@@ -14,9 +14,8 @@
 - 🎓 Computer Engineering student, passionate about **backend development**
 - 🐍 Focused on **Python & FastAPI** — building clean, well-structured REST APIs
 - 🌱 Currently learning: **going deeper in FastAPI, plus PostgreSQL & Docker**
-- 🔭 Working on: **[BorrowBetter](https://github.com/ISanaSaki/BorrowBetter)** (team project) and my first FastAPI + PostgreSQL REST API
 - 📫 Reach me at: [asra.rahimi2006@gmail.com](mailto:asra.rahimi2006@gmail.com)
-  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -44,9 +43,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-6B4A3A?style=for-the-badge&logo=ubuntu&logoColor=F5EBDD)
 
 ### 🔹 Frontend (basics)
-![HTML5](https://img.shields.io/badge/HTML5-A9805B?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-A9805B?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-A9805B?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-1E2A5E?style=for-the-badge&logo=html5&logoColor=F5EBDD)
+![CSS3](https://img.shields.io/badge/CSS3-6B4A3A?style=for-the-badge&logo=css3&logoColor=F5EBDD)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E2A5E?style=for-the-badge&logo=javascript&logoColor=F5EBDD)
 
 ---
 
