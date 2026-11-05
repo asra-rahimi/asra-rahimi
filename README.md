@@ -68,13 +68,19 @@
 ![Followers](https://img.shields.io/github/followers/asra-rahimi?style=for-the-badge&logo=github&logoColor=F5EBDD&labelColor=6B4A3A&color=1E2A5E)
 ![Profile Views](https://komarev.com/ghpvc/?username=asra-rahimi&style=for-the-badge&label=PROFILE+VIEWS&color=1E2A5E&labelColor=6B4A3A)
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=asra-rahimi&background=F5EBDD&border=C8A27C&ring=1E2A5E&fire=A9805B&currStreakNum=1E2A5E&currStreakLabel=5B3A2E&sideNums=1E2A5E&sideLabels=5B3A2E&dates=8A6A55" alt="GitHub streak" />
+---
 
-<br/><br/>
+## 🐍 Contribution Snake
 
-<img src="https://ghchart.rshah.org/1E2A5E/asra-rahimi" alt="Contribution chart" width="90%" />
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -84,7 +90,6 @@
 
 - **[BorrowBetter](https://github.com/ISanaSaki/BorrowBetter)** — team project built collaboratively with Git & GitHub (branches, commits, pull requests)
 - **Django Blog (university project)** — post pages with previous/next navigation
-- **FastAPI REST API** — coming soon
 
 ---
 
