@@ -70,16 +70,6 @@
 
 <br/>
 
-**Color guide** — each square is one day:
-
-| Color | Meaning |
-|:-----:|---------|
-| ![No activity](https://img.shields.io/badge/_____-D8DCE3?style=flat-square) | Light gray — a day I didn't use GitHub |
-| ![Few](https://img.shields.io/badge/_____-9EC1FF?style=flat-square) | Light blue — I worked a little |
-| ![Some](https://img.shields.io/badge/_____-5C97F0?style=flat-square) | Blue — I worked a fair amount |
-| ![Many](https://img.shields.io/badge/_____-2F6BD6?style=flat-square) | Darker blue — a busy day |
-| ![Most](https://img.shields.io/badge/_____-17399A?style=flat-square) | Dark blue — one of my busiest days |
-
 </div>
 
 ---
