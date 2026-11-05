@@ -1,7 +1,7 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2B3A7A,1E2A5E,6B4A3A&text=Asra%20Rahimi&fontColor=F5EBDD&fontSize=48&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descColor=E8D5BE&animation=fadeIn" width="100%" alt="header" />
+<img src="./banner.svg" width="100%" alt="Asra Rahimi — Python Backend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A9805B&center=true&vCenter=true&width=640&lines=Hi+there!+I'm+Asra+%F0%9F%91%8B;Computer+Engineering+Student;Building+APIs+with+Python+%26+FastAPI;Open+to+learn.+Open+to+collaborate." alt="typing" />
 
@@ -14,40 +14,37 @@
 - 🎓 Computer Engineering student, passionate about **backend development**
 - 🐍 Focused on **Python & FastAPI** — building clean, well-structured REST APIs
 - 🌱 Currently learning: **FastAPI, PostgreSQL, Docker**
-- 🤝 Open to collaborate on: **backend & open-source projects**
 - 📫 Reach me at: [asra.rahimi2006@gmail.com](mailto:asra.rahimi2006@gmail.com)
-- ⚡ Fun fact: I love drawing ✏️ — I like making things look good, in code and on paper
-
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Backend
-![Python](https://img.shields.io/badge/Python-1E2A5E?style=for-the-badge&logo=python&logoColor=F5EBDD)
-![FastAPI](https://img.shields.io/badge/FastAPI-6B4A3A?style=for-the-badge&logo=fastapi&logoColor=F5EBDD)
-![Django](https://img.shields.io/badge/Django-1E2A5E?style=for-the-badge&logo=django&logoColor=F5EBDD)
-![Pydantic](https://img.shields.io/badge/Pydantic-6B4A3A?style=for-the-badge&logo=pydantic&logoColor=F5EBDD)
-![SQLModel](https://img.shields.io/badge/SQLModel-1E2A5E?style=for-the-badge&logoColor=F5EBDD)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-6B4A3A?style=for-the-badge&logoColor=F5EBDD)
-![REST API](https://img.shields.io/badge/REST_API-1E2A5E?style=for-the-badge&logoColor=F5EBDD)
-![CORS](https://img.shields.io/badge/CORS-6B4A3A?style=for-the-badge&logoColor=F5EBDD)
+<table>
+<tr>
+<td align="center"><b>Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=light" alt="backend" />
+</td>
+<td align="center"><b>Databases</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=light" alt="databases" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools &amp; DevOps</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu&theme=light" alt="tools" />
+</td>
+<td align="center"><b>Frontend (basics)</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" alt="frontend" />
+</td>
+</tr>
+</table>
 
-### 🔹 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E2A5E?style=for-the-badge&logo=postgresql&logoColor=F5EBDD)
-![SQLite](https://img.shields.io/badge/SQLite-6B4A3A?style=for-the-badge&logo=sqlite&logoColor=F5EBDD)
-![SQL](https://img.shields.io/badge/SQL-1E2A5E?style=for-the-badge&logoColor=F5EBDD)
-
-### 🔹 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-6B4A3A?style=for-the-badge&logo=git&logoColor=F5EBDD)
-![GitHub](https://img.shields.io/badge/GitHub-1E2A5E?style=for-the-badge&logo=github&logoColor=F5EBDD)
-![Docker](https://img.shields.io/badge/Docker-6B4A3A?style=for-the-badge&logo=docker&logoColor=F5EBDD)
-![Linux](https://img.shields.io/badge/Linux-1E2A5E?style=for-the-badge&logo=linux&logoColor=F5EBDD)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-6B4A3A?style=for-the-badge&logo=ubuntu&logoColor=F5EBDD)
-
-### 🔹 Frontend (basics)
-![HTML5](https://img.shields.io/badge/HTML5-A9805B?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-A9805B?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-A9805B?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+<p align="center">
+<img src="https://img.shields.io/badge/Pydantic-1E2A5E?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+<img src="https://img.shields.io/badge/SQLModel-6B4A3A?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLModel" />
+<img src="https://img.shields.io/badge/Uvicorn-1E2A5E?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn" />
+<img src="https://img.shields.io/badge/REST_API-6B4A3A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/CORS-1E2A5E?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="CORS" />
+</p>
 
 ---
 
@@ -97,6 +94,6 @@
 
 _Keep learning. Keep building. Keep growing!_ 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6B4A3A,1E2A5E,2B3A7A&section=footer" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="footer" />
 
 </div>
