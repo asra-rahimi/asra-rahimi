@@ -14,8 +14,9 @@
 - 🎓 Computer Engineering student, passionate about **backend development**
 - 🐍 Focused on **Python & FastAPI** — building clean, well-structured REST APIs
 - 🌱 Currently learning: **going deeper in FastAPI, plus PostgreSQL & Docker**
+- 🔭 Working on: **[BorrowBetter](https://github.com/ISanaSaki/BorrowBetter)** (team project) and my first FastAPI + PostgreSQL REST API
 - 📫 Reach me at: [asra.rahimi2006@gmail.com](mailto:asra.rahimi2006@gmail.com)
-پ
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -81,13 +82,15 @@
 
 <br/>
 
-<sub>🟦 Each square is a day — the darker the blue, the more I worked that day</sub>
+**Color guide** — each square is one day:
 
-![No activity](https://img.shields.io/badge/No_activity-8B93A7?style=flat-square)
-![Few](https://img.shields.io/badge/Few-BFD7FF?style=flat-square)
-![Some](https://img.shields.io/badge/Some-7FA8F0?style=flat-square)
-![Many](https://img.shields.io/badge/Many-3F6FD1?style=flat-square)
-![Most](https://img.shields.io/badge/Most-1F3F9E?style=flat-square)
+| Color | Meaning |
+|:-----:|---------|
+| ![No activity](https://img.shields.io/badge/_____-D8DCE3?style=flat-square) | Light gray — a day I didn't use GitHub |
+| ![Few](https://img.shields.io/badge/_____-9EC1FF?style=flat-square) | Light blue — I worked a little |
+| ![Some](https://img.shields.io/badge/_____-5C97F0?style=flat-square) | Blue — I worked a fair amount |
+| ![Many](https://img.shields.io/badge/_____-2F6BD6?style=flat-square) | Darker blue — a busy day |
+| ![Most](https://img.shields.io/badge/_____-17399A?style=flat-square) | Dark blue — one of my busiest days |
 
 </div>
 
@@ -97,6 +100,8 @@
 
 - **[BorrowBetter](https://github.com/ISanaSaki/BorrowBetter)** — team project built collaboratively with Git & GitHub (branches, commits, pull requests)
 - **Django Blog (university project)** — post pages with previous/next navigation
+
+
 ---
 
 ## 🤝 Connect With Me
@@ -113,4 +118,3 @@ _Keep learning. Keep building. Keep growing!_ 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=6B4A3A&section=footer" width="100%" alt="footer" />
 
 </div>
-ج-
