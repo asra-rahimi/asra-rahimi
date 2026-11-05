@@ -61,17 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/asra-rahimi?style=for-the-badge&logo=github&logoColor=F5EBDD&labelColor=6B4A3A&color=1E2A5E)
-![Profile Views](https://komarev.com/ghpvc/?username=asra-rahimi&style=for-the-badge&label=PROFILE+VIEWS&color=1E2A5E&labelColor=6B4A3A)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
