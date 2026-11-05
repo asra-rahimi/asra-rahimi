@@ -13,10 +13,9 @@
 
 - 🎓 Computer Engineering student, passionate about **backend development**
 - 🐍 Focused on **Python & FastAPI** — building clean, well-structured REST APIs
-- 🌱 Currently learning: **FastAPI, PostgreSQL, Docker**
-- 🤝 Open to collaborate on: **backend & open-source projects**
+- 🌱 Currently learning: **going deeper in FastAPI, plus PostgreSQL & Docker**
 - 📫 Reach me at: [asra.rahimi2006@gmail.com](mailto:asra.rahimi2006@gmail.com)
-
+پ
 ---
 
 ## 🛠️ Tech Stack
@@ -55,9 +54,9 @@
 | Skill | Level |
 |-------|-------|
 | Python | ![](https://img.shields.io/badge/-Intermediate-1E2A5E?style=flat-square) |
-| FastAPI & REST APIs | ![](https://img.shields.io/badge/-Learning-6B4A3A?style=flat-square) |
+| FastAPI & REST APIs | ![](https://img.shields.io/badge/-Intermediate-1E2A5E?style=flat-square) |
 | Django / SQL / PostgreSQL | ![](https://img.shields.io/badge/-Basic-A9805B?style=flat-square) |
-| Docker / Linux | ![](https://img.shields.io/badge/-Basic-A9805B?style=flat-square) |
+| Docker / Linux | ![](https://img.shields.io/badge/-Learning-6B4A3A?style=flat-square) |
 | HTML / CSS / JavaScript | ![](https://img.shields.io/badge/-Basic-A9805B?style=flat-square) |
 
 ---
@@ -114,3 +113,4 @@ _Keep learning. Keep building. Keep growing!_ 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=6B4A3A&section=footer" width="100%" alt="footer" />
 
 </div>
+ج-
