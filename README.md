@@ -14,6 +14,7 @@
 - 🎓 Computer Engineering student, passionate about **backend development**
 - 🐍 Focused on **Python & FastAPI** — building clean, well-structured REST APIs
 - 🌱 Currently learning: **FastAPI, PostgreSQL, Docker**
+- 🤝 Open to collaborate on: **backend & open-source projects**
 - 📫 Reach me at: [asra.rahimi2006@gmail.com](mailto:asra.rahimi2006@gmail.com)
 
 ---
@@ -79,6 +80,16 @@
 <img alt="Contribution snake" src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/output/github-snake-dark.svg#gh-dark-mode-only" />
 <img alt="Contribution snake" src="https://raw.githubusercontent.com/asra-rahimi/asra-rahimi/output/github-snake.svg#gh-light-mode-only" />
 
+<br/>
+
+<sub>🟦 Each square is a day — the darker the blue, the more I worked that day</sub>
+
+![No activity](https://img.shields.io/badge/No_activity-8B93A7?style=flat-square)
+![Few](https://img.shields.io/badge/Few-BFD7FF?style=flat-square)
+![Some](https://img.shields.io/badge/Some-7FA8F0?style=flat-square)
+![Many](https://img.shields.io/badge/Many-3F6FD1?style=flat-square)
+![Most](https://img.shields.io/badge/Most-1F3F9E?style=flat-square)
+
 </div>
 
 ---
@@ -87,7 +98,6 @@
 
 - **[BorrowBetter](https://github.com/ISanaSaki/BorrowBetter)** — team project built collaboratively with Git & GitHub (branches, commits, pull requests)
 - **Django Blog (university project)** — post pages with previous/next navigation
-
 ---
 
 ## 🤝 Connect With Me
